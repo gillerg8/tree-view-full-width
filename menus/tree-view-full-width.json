@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tree-view-full-width",
+        "command": "tree-view-full-width:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tree-view-full-width",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tree-view-full-width:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
