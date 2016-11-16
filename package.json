@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "tree-view-full-width:toggle"
   },
-  "repository": "https://github.com/atom/tree-view-full-width",
+  "repository": "https://github.com/gillerg8/tree-view-full-width",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
