@@ -2,7 +2,7 @@
   "name": "tree-view-full-width",
   "main": "./lib/tree-view-full-width",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Make the tree view full width when opening files.",
   "keywords": [
   ],
   "activationCommands": {
