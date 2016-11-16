@@ -1,10 +1,9 @@
 {
   "name": "tree-view-full-width",
   "main": "./lib/tree-view-full-width",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Make the tree view full width when opening files.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "tree-view-full-width:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
