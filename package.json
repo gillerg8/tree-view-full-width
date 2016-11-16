@@ -1,7 +1,7 @@
 {
   "name": "tree-view-full-width",
   "main": "./lib/tree-view-full-width",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "While crawling through directories, this package will give tree view the ability to keep the tree view extended fully.",
   "keywords": [
     "tree",
