@@ -1,5 +1,7 @@
-# tree-view-full-width package
+# tree-view-stay-right package
 
-A short description of your package.
+While crawling through directories, this package will give tree view the ability to keep the tree view extended fully.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## License
+
+Copyright (c) 2016 Geoff Giller
