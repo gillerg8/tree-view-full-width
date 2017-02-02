@@ -2,7 +2,7 @@
   "name": "tree-view-full-width",
   "main": "./lib/tree-view-full-width",
   "version": "0.0.3",
-  "description": "While crawling through directories, this package will give tree view the ability to keep the tree view extended fully.",
+  "description": "While crawling through directories, this package will give tree view the ability to keep the tree view extended fully. It also disables the extender, so if that doesn't bother you, you're in luck!",
   "keywords": [
     "tree",
     "view",
@@ -10,7 +10,7 @@
     "width",
     "expand"
   ],
-  "styles": "./styles/tree-view-stay-right",
+  "styles": "./styles/tree-view-full-width",
   "repository": "https://github.com/gillerg8/tree-view-full-width",
   "license": "MIT",
   "engines": {
